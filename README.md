@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/midincihuy/aladhan-api-client-php.svg?style=shield)](https://circleci.com/gh/midincihuy/aladhan-api-client-php)
+
+
 Yii 2 Basic Project Template
 ============================
 
